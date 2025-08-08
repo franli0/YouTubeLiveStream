@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="input_w">300dp</dimen>
+    <dimen name="lb_browse_header_select_scale">1.4</dimen>
+    <item name="lb_focus_zoom_factor_medium" type="fraction">140%</item>
+</resources>
